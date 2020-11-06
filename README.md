@@ -1,2 +1,3 @@
 #machine-learning
-Veriler KAGGLE'dan alınmıştır.
+
+#Veriler KAGGLE'dan alınmıştır.
