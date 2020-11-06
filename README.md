@@ -1,1 +1,2 @@
-# beyin-mr-ile-tumor-tahmini
+# yapay-zeka
+# yapay-zeka
