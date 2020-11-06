@@ -1,2 +1,2 @@
-# yapay-zeka
-# yapay-zeka
+#machine-learning
+Veriler KAGGLE'dan alınmıştır.
